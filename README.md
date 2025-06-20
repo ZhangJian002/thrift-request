@@ -2,6 +2,8 @@
 
 This plugin is **not open-source**. It is a commercial plugin licensed via JetBrains Marketplace. All rights reserved.
 
+[中文文档](./README.zh_CN.md)
+
 ## 🧩 Plugin Dependency
 
 This plugin depends on another free plugin developed by the author: **Thrift Assistant**.  
