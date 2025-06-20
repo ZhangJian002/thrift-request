@@ -19,6 +19,8 @@ Before sending requests, please add your **project** and **environment** informa
 The plugin uses your environment configuration to manage requests uniformly.  
 > The request prefix should follow the format: `ip:port` (e.g., `127.0.0.1:9090`)
 
+<img src="./addEnv.gif" />
+
 ---
 
 ### 2. Generate Parameters from Thrift Methods
