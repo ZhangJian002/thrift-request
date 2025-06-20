@@ -45,6 +45,7 @@ The plugin will:
 - Display the **return value** and key metadata in the response panel
 - Support switching between different **response tabs** to view raw result, status, and logs
 
+<img src="./request.gif" />
 ---
 
 ## 📝 中文说明
